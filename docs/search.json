@@ -44,7 +44,7 @@
     "href": "k1.html",
     "title": "1  Kapitel 1",
     "section": "",
-    "text": "Dies ist Kapitel 1.",
+    "text": "Dies ist Kapitel 1. Knuth (1984)\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Kapitel 1</span>"
     ]

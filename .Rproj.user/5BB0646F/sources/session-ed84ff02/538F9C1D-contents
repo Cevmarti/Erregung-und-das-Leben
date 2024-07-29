@@ -1,0 +1,24 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Book"
+  author: "Chiara Marti"
+  date: today
+  downloads: pdf
+  chapters:
+    - index.qmd
+    - k1.qmd
+    - k2.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: source
+
