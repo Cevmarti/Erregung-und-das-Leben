@@ -3,9 +3,9 @@
     "path": "~/Documents/Book/k1.qmd",
     "project_path": "k1.qmd",
     "type": "quarto_markdown",
-    "hash": "2982861780",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1722258389703.0,
     "source_on_save": false,
     "relative_order": 2,
@@ -16,8 +16,8 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "37,0",
-        "scrollLine": "33",
+        "cursorPosition": "0,28",
+        "scrollLine": "0",
         "rmdVisualModeLocation": "2:0",
         "quartoPreviewFormat": "html"
     },
@@ -26,7 +26,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1722340383921,
+    "last_content_update": 1722344026495,
     "read_only": false,
     "read_only_alternatives": []
 }

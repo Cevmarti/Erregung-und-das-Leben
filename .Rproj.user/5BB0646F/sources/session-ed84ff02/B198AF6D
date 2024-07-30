@@ -1,14 +1,14 @@
 {
-    "id": "DE28ED00",
-    "path": "~/Documents/Book/index.qmd",
-    "project_path": "index.qmd",
+    "id": "B198AF6D",
+    "path": "~/Documents/Book/k3.qmd",
+    "project_path": "k3.qmd",
     "type": "quarto_markdown",
-    "hash": "1007825674",
+    "hash": "2003590605",
     "contents": "",
     "dirty": false,
-    "created": 1722256099879.0,
+    "created": 1722342641006.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 5,
     "properties": {
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
@@ -16,17 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "26:0",
-        "cursorPosition": "4,240",
-        "scrollLine": "3",
-        "quartoPreviewFormat": "html"
+        "cursorPosition": "0,32",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "74:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1722343516,
+    "lastKnownWriteTime": 1722344047,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1722343516284,
+    "last_content_update": 1722344047693,
     "read_only": false,
     "read_only_alternatives": []
 }
