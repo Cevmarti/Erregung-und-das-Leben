@@ -11,6 +11,7 @@ book:
     - index.qmd
     - k1.qmd
     - k2.qmd
+    - k3.qmd
 
 bibliography: references.bib
 
