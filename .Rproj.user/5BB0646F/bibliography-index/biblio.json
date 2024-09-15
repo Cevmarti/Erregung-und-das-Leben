@@ -27,6 +27,27 @@
             "title": "Literate programming",
             "type": "article-journal",
             "volume": "27"
+        },
+        {
+            "author": [
+                {
+                    "family": "Marti",
+                    "given": "Chiara"
+                }
+            ],
+            "id": "alma991170854008705501",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "publisher": "Berner Fachhochschule Gesundheit",
+            "publisher-place": "Bern",
+            "title": "Körperorientierte transition als handlungsfeld von advanced practice nursing : Entwicklung einer intervention und deren wissenskorpus",
+            "title-short": "Körperorientierte transition als handlungsfeld von advanced practice nursing ",
+            "type": ""
         }
     ],
     "project_biblios": [
